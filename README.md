@@ -2,7 +2,7 @@
 
 ## Class notes
 
-[Class notes and practice notebooks](notes/README.md) — November 9–18, 2026.
+[Class notes and practice notebooks](notes/README.md) 
 
 - [November 9, 2026 — Python basics](notes/01-python-basics.md)
 - [November 10, 2026 — Loops](notes/02-loops.md)
