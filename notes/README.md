@@ -1,7 +1,6 @@
 # Python class notes
 
-Coverage: November 9–18, 2026. Dates identify the reviewed classes. Examples are written for revision; additional technical notes clarify behavior where needed.
-
+C
 | Class | Notes | Practice notebook |
 |---|---|---|
 | November 9, 2026 — Python basics | [Read notes](01-python-basics.md) | [Open notebook](01-python-basics.ipynb) |
@@ -13,10 +12,4 @@ Coverage: November 9–18, 2026. Dates identify the reviewed classes. Examples a
 | November 17, 2026 — Classes and objects | [Read notes](07-oop-basics.md) | [Open notebook](07-oop-basics.ipynb) |
 | November 18, 2026 — Inheritance and OOP design | [Read notes](08-oop-inheritance.md) | [Open notebook](08-oop-inheritance.ipynb) |
 
-## Practice
 
-Read the notes, predict each example’s result, then run the notebook cells in order. Some examples continue variables or classes defined earlier. For the file/database notebook, use a practice folder, install pandas in the selected environment, and create the two separate module files shown in the notes.
-
-## Scope
-
-Pandas appears here only for introductory file input/output. The full later pandas and data-engineering sessions have not yet been added.
