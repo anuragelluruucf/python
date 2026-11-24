@@ -1,6 +1,6 @@
 # Python class notes
 
-C
+
 | Class | Notes | Practice notebook |
 |---|---|---|
 | November 9, 2026 — Python basics | [Read notes](01-python-basics.md) | [Open notebook](01-python-basics.ipynb) |
